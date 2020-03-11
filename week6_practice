@@ -1,0 +1,7 @@
+# Week 6 practice on functions
+
+def ping():
+    return "Ping!"
+
+ping()
+        
